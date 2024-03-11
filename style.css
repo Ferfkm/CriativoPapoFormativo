@@ -2,7 +2,7 @@
     background-color: #DC6020;
     color: #FFFFFF;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .cabecalho-imagem{
     width: 15%;
