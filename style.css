@@ -26,9 +26,9 @@
     color: #902B06;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 .div-tenis{
     width: 35% ;
-    
 }
 
