@@ -23,4 +23,7 @@
 }
 .tenis{
     background-image: linear-gradient(#EF7E22, #F8C59C);
+    color: #902B06;
+    display: flex;
 }
+
