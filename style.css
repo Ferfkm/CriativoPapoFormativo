@@ -18,3 +18,9 @@
     margin: 0 20px;
     font-size: 24px;
 }
+.tenis-imagem{
+    width: 20%;
+}
+.tenis{
+    background-image: linear-gradient(#EF7E22, #FFFFFF);
+}
