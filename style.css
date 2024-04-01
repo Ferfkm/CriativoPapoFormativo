@@ -53,3 +53,7 @@ body{
 .atleta-icone{
     width: 24px;
 }
+.atleta-div{
+    text-align: center;
+    padding: 24px 0;
+}
