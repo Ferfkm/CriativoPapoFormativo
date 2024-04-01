@@ -47,5 +47,9 @@ body{
 .tenis-texto-dois{
     padding: 16px 0;
 }
-
-
+.atleta-imagem{
+    width: 120px;
+}
+.atleta-icone{
+    width: 24px;
+}
