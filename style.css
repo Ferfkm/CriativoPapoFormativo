@@ -53,7 +53,14 @@ body{
 .atleta-icone{
     width: 24px;
 }
+.atletas{
+    padding: 24px 0;
+}
 .atleta-div{
+    text-align: center;
+    padding: 24px 0;
+}
+.atleta-titulo{
     text-align: center;
     padding: 24px 0;
 }
