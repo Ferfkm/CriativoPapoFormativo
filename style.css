@@ -82,3 +82,6 @@ body{
 .rodape-icone{
     width: 24px;
 }
+.rodape-div{
+    display: flex;
+}
