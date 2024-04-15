@@ -78,11 +78,9 @@ body{
 }
 .rodape-logo{
     width: 20%;
-    padding: 6px 6px;
 }
 .rodape-icone{
     width: 24px;
-    padding: 6px 6px;
 }
 .rodape-div{
     display: flex;
