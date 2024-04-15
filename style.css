@@ -86,3 +86,6 @@ body{
     display: flex;
     justify-content: center;
 }
+.rodape-fone{
+    padding: 0 6px;
+}
